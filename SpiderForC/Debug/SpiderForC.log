@@ -1,0 +1,4 @@
+﻿  SpiderForC.cpp
+c:\users\joe\source\repos\spiderforc\spiderforc\spiderforc.cpp(418): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\joe\source\repos\spiderforc\spiderforc\spiderforc.cpp(542): warning C4326: “main”的返回类型应为“int”而非“void”
+  SpiderForC.vcxproj -> C:\Users\Joe\source\repos\SpiderForC\Debug\SpiderForC.exe

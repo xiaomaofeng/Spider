@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 26 Nov 2018 07:23:06 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=10800
+Last-Modified: Mon, 26 Nov 2018 07:22:04 GMT
+
+ac
+ <meta http-equiv="Refresh" content="0;url=http://hao.360.cn/sub/meinv_website_nav.html">
+<!-- File To Static Is Ok -->
+<!-- This Page was created in 2018-11-26 15:22:04-->
+0
+
+

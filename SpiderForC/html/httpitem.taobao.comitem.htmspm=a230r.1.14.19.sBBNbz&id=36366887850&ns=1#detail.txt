@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Mon, 26 Nov 2018 07:19:30 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: close
+location: https://item.taobao.com/item.htm?spm=a230r.1.14.19.sBBNbz&id=36366887850&ns=1#detail?spm=a230r.1.14.19.sBBNbz&id=36366887850&ns=1&spm=a230r.1.14.19.sBBNbz&ns=1
+Via: cache4.cn1017[,0]
+Timing-Allow-Origin: *
+EagleId: 6f06b59815432167705192039e
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine</body>
+</html>
+
